@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@100&display=swap');
+
+.header-rolls {
+  /* margin-left: -19.2%; */
+  /* margin-top: -2%; */
+  height: 850px;
+  width: 100%;
+}
+
+.brand-dawn {
+  position: absolute;
+  font-family: 'Gruppo', cursive;
+  top: 42%;
+  left: 23%;
+  color: white;
+  font-size: 9rem;
+  letter-spacing: 15px;
+}
+
+.text {
+  padding-top: 10%;
+  text-align: center;
+  padding-bottom: 10%;
+  font-family: 'Trirong', serif;
+  font-weight: 600;
+}
+
+.ph1 {
+  height: 780px;
+  width: 139%;
+  /* margin-left: -20%; */
+}
+
+.text h4 {
+  font-weight: 600;
+}
+
+.slider {
+  background-color: rgb(216, 225, 233);
+  height: 2000px;
+  /* margin-left: -20%; */
+  width: 139%;
+}
+
+.ph2 {
+  height: 400px;
+  width: 33%;
+  padding-right: 3%;
+  margin-left: 4%;
+}
+
+.ph3 {
+  height: 500px;
+  width: 30%;
+  padding-right: 3%;
+}
+
+.ph4 {
+  height: 500px;
+  width: 30%;
+  padding-top: 3%;
+}
+
+.phantom2 {
+  width: 100%;
+}
+
+.footer {
+  color: white;
+  padding-top: 25%;
+  height: 1300px;
+  /* margin-left: -20%; */
+  width: 139%;
+  background-color: black;
+}
+
+.phantom3 {
+  width: 100%;
+}

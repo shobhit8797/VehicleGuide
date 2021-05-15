@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+.header-mas {
+  width: 100%;
+  margin-top: -2%;
+}
+
+.txt-mas {
+  font-family: 'Trirong', serif;
+  font-weight: bolder;
+  margin-top: -17%;
+  height: 90px;
+  padding-left: 3%;
+  position: absolute;
+  font-size: 4rem;
+  border-right: 2px solid black;
+  padding-right: 2%;
+}
+
+.subtxt {
+  font-family: 'Trirong', serif;
+  font-weight: bolder;
+  margin-top: -15.6%;
+  font-size: 2rem;
+  margin-left: -23%;
+}
+
+.discover {
+  color: whitesmoke;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 2px;
+  font-size: 3rem;
+  padding-bottom: 8%;
+  margin-top: 19%;
+}
+
+.mas1 {
+  width: 100%;
+  /* margin-left: -19%; */
+  height: 600px;
+  /* margin-bottom:-7%; */
+}
+
+.mas-txt {
+  font-family: 'Newsreader', serif;
+  position: absolute;
+  color: white;
+  background-color: transparent;
+  margin-top: -18%;
+  width: 33%;
+  margin-left: 3%;
+}
+
+.mas2 {
+  width: 100%;
+  /* margin-left: -19%; */
+  height: 600px;
+  margin-bottom: -7%;
+}
+
+.mas3 {
+  width: 100%;
+  /* margin-left: -19%; */
+  height: 800px;
+}
+
+.div1-mas {
+  width: 100%;
+}
+
+.div2-mas {
+  width: 100%;
+}
+.div1-mas-txt {
+  color: white;
+  margin-top: 18%;
+  font-family: 'PT Serif', serif;
+  width: 40%;
+  padding-left: 1%;
+}
+.div1-mas-txt p {
+  text-align: left;
+  padding: 3%;
+}
+.div1-mas-txt h1 {
+  color: white;
+}
+
+.mas4 {
+  width: 56%;
+  height: 600px;
+  padding-left: 42%;
+  margin-top: -34%;
+  margin-bottom: 8%;
+}
+
+.mas5 {
+  width: 50%;
+  height: 600px;
+  padding-left: 3%;
+  padding-bottom: 2%;
+  margin-left: -46%;
+  margin-top: -23%;
+}
+
+.div2-mas-txt {
+  color: whitesmoke;
+  margin-top: 10%;
+  font-family: 'PT Serif', serif;
+  margin-left: 56%;
+  width: 40%;
+}
+.div2-mas-txt p {
+  text-align: right;
+}
+.div2-mas-txt h1 {
+  color: whitesmoke;
+}

@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100&family=Cinzel&display=swap');
+body {
+  overflow-x: hidden;
+}
+.main img {
+  width: 80%;
+  z-index: -1;
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+.main-top img {
+  position: absolute;
+  z-index: 100;
+  width: 20%;
+  height: 190px;
+  top: 100px;
+  right: 25px;
+  opacity: 85%;
+}
+.bgimg img {
+  left: 0;
+  filter: blur(4px);
+  z-index: -2;
+  top: 100px;
+  height: 600px;
+  width: 100%;
+  position: absolute;
+}
+.home_name1 {
+  font-weight: 800;
+  margin-top: 100px;
+  margin-left: 30px;
+  color: white;
+  position: absolute;
+  height: 200px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Cinzel', serif;
+  font-size: 70px;
+  left: 200px;
+  top: 67%;
+}
+.main_div2 {
+  z-index: -3;
+  position: absolute;
+  background-color: black;
+  top: 80%;
+  width: 100%;
+  height: 800px;
+}
+.gwag {
+  width: 550px;
+  height: 350px;
+  position: absolute;
+  top: 45%;
+  background-color: aqua;
+  left: 60%;
+}
+.gwag_info {
+  position: absolute;
+  top: 20%;
+  left: 50px;
+  width: 50%;
+  height: 500px;
+}
+.gwag_info span {
+  font-family: 'Alegreya Sans', sans-serif;
+  color: whitesmoke;
+  font-size: 25px;
+  top: 70%;
+  position: absolute;
+  text-align: justify;
+  left: 10%;
+}
+.gwag_info h1 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Cinzel', serif;
+  position: absolute;
+  top: 30%;
+  color: whitesmoke;
+  left: 20%;
+}
+.main_div3 {
+  z-index: -4;
+  width: 100%;
+  height: 765px;
+  position: absolute;
+  top: 180%;
+  background-color: black;
+}
+.left_img {
+  left: 25%;
+  top: 25%;
+  position: absolute;
+  height: 500px;
+  width: 400px;
+  background-color: aqua;
+}
+.left_img img {
+  height: 500px;
+  width: 400px;
+}
+.right_img {
+  z-index: 3;
+  left: 45%;
+  top: 10%;
+  z-index: 2;
+  position: absolute;
+  height: 400px;
+  width: 700px;
+  background-color: aqua;
+}
+.right_img img {
+  height: 400px;
+  width: 700px;
+}
+.info_left {
+  color: whitesmoke;
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: justify;
+  top: 20%;
+  width: 20%;
+  height: 60%;
+  position: absolute;
+  left: 20px;
+}
+.info_right {
+  color: whitesmoke;
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: justify;
+  top: 245%;
+  width: 40%;
+  height: 30%;
+  position: absolute;
+  right: 30px;
+}
+.info_right h2 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Cinzel', serif;
+}
+.info_left h2 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Cinzel', serif;
+}
+.main_bg img {
+  height: 750px;
+  position: absolute;
+  width: 100%;
+  top: 180%;
+  z-index: -3;
+  opacity: 10%;
+}
+
+.gwag img {
+  height: 100%;
+}

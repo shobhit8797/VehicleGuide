@@ -1,0 +1,36 @@
+/* Footer CSS */
+.footer {
+  z-index: 1000;
+  margin-top: 10px;
+  min-height: 400px;
+  max-height: 450px;
+  background-color: #181818;
+  color: #a09f9f;
+}
+.footer-head {
+  width: 80%;
+  margin: auto;
+  padding-top: 25px;
+  border-bottom: 1px solid;
+  font-size: 22px;
+}
+
+.footer-lists {
+  /* width: 80%; */
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-around;
+}
+.list-block {
+  /* float: left; */
+  list-style: none;
+}
+.li-head {
+  color: #3d3c3c;
+  font-weight: 700;
+  margin: 10px 0px;
+}
+.list-items:hover {
+  color: gold;
+}
+/* ----------------- */

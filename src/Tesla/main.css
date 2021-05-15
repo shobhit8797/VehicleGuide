@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&display=swap');
+body {
+  background-color: black;
+}
+.list {
+  position: absolute;
+  top: 35px;
+  font-size: 20px;
+  right: 31rem;
+}
+.list li {
+  font-family: 'Cairo', sans-serif;
+  font-weight: 400;
+  margin-left: 40px;
+  float: left;
+}
+.tesla {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.tesla2 {
+  position: absolute;
+  right: 10px;
+}
+.img_div_x {
+  right: 0px;
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  top: 60rem;
+  right: 10rem;
+}
+.head_x {
+  font-family: 'Cairo', sans-serif;
+  left: 4rem;
+  color: whitesmoke;
+  position: absolute;
+  top: 60rem;
+}
+.x_info {
+  font-family: 'Cairo', sans-serif;
+  color: azure;
+  position: absolute;
+  height: 300px;
+  width: 50%;
+  top: 65rem;
+  left: 6%;
+}
+.y_info {
+  font-family: 'Cairo', sans-serif;
+  color: azure;
+  position: absolute;
+  height: 300px;
+  width: 50%;
+  top: 105rem;
+  left: 40rem;
+}
+.head_y {
+  font-family: 'Cairo', sans-serif;
+  left: 37rem;
+  color: whitesmoke;
+  position: absolute;
+  top: 100rem;
+}
+.img_div_y {
+  right: 0px;
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  top: 100rem;
+  right: 68rem;
+}
+.s_info {
+  font-family: 'Cairo', sans-serif;
+  color: azure;
+  position: absolute;
+  height: 305px;
+  width: 50%;
+  top: 155rem;
+  left: 6%;
+}
+.head_s {
+  font-family: 'Cairo', sans-serif;
+  left: 4rem;
+  color: whitesmoke;
+  position: absolute;
+  top: 150rem;
+}
+.img_div_s {
+  right: 0px;
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  top: 150rem;
+  right: 10rem;
+}
+.t_info {
+  font-family: 'Cairo', sans-serif;
+  color: azure;
+  position: absolute;
+  height: 300px;
+  width: 50%;
+  top: 200rem;
+  left: 40rem;
+}
+.head_3 {
+  font-family: 'Cairo', sans-serif;
+  font-family: 'Cairo', sans-serif;
+  left: 37rem;
+  color: whitesmoke;
+  position: absolute;
+  top: 195rem;
+}
+.img_div_3 {
+  right: 0px;
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  top: 195rem;
+  right: 67rem;
+}
+.img_div_ct {
+  top: 240rem;
+  position: absolute;
+  height: 500px;
+  width: 80%;
+  left: 10%;
+}
+.head_ct {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 60px;
+  position: absolute;
+  top: 230rem;
+  left: 39%;
+  color: whitesmoke;
+}
+.ct_info {
+  font-family: 'Shadows Into Light', cursive;
+  color: azure;
+  position: absolute;
+  height: 300px;
+  width: 70%;
+  top: 277rem;
+  font-size: 23px;
+  left: 15%;
+}
+.road_info {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: azure;
+  position: absolute;
+  height: 300px;
+  width: 70%;
+  top: 345rem;
+  font-size: 23px;
+  left: 15%;
+}
+.head_road {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 60px;
+  position: absolute;
+  top: 300rem;
+  left: 39%;
+  color: whitesmoke;
+}
+.img_div_road {
+  top: 310rem;
+  position: absolute;
+  height: 500px;
+  width: 80%;
+  left: 10%;
+}

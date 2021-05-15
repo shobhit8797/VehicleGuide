@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Playfair+Display:wght@500&family=Roboto+Slab:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+
+* {
+  max-width: 100%;
+  object-fit: cover;
+}
+/* .head {
+  color: white;
+  background-color: rgb(46, 43, 43);
+  font-size: 52px;
+  width: 100vw;
+  bottom: 24px;
+  text-align: left;
+  position: absolute;
+  z-index: 100;
+  font-family: 'Playfair Display', serif;
+} */
+
+.header {
+  height: 700px;
+  width: 100%;
+  position: relative;
+  margin-top: -2%;
+}
+
+.title-mer {
+  color: White;
+  position: absolute;
+  font-size: 3rem;
+  margin-top: -38rem;
+  margin-left: 6rem;
+}
+
+.tagline {
+  color: white;
+  margin-top: -34rem;
+  font-size: 20px;
+  position: absolute;
+}
+
+.anime {
+  color: white;
+  margin-left: 5%;
+  margin-top: 8%;
+  font-family: 'Playfair Display', serif;
+}
+
+.anime p {
+  font-size: 19px;
+  font-family: 'Playfair Display', serif;
+}
+
+.feature {
+  background-color: black;
+  height: 1800px;
+  margin-top: 5%;
+  width: 100%;
+  color: white;
+}
+
+.feature h1 {
+  padding-top: 20%;
+  margin-left: 2%;
+  font-size: 2.6rem;
+  font-family: 'Playfair Display', serif;
+  width: 50%;
+}
+
+.feature p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 16.7px;
+}
+
+.grex1 {
+  height: 500px;
+  width: 48%;
+  padding-left: 57%;
+  margin-top: -10%;
+}
+
+.grex2 {
+  height: 700px;
+  width: 35%;
+  margin-left: 7%;
+  margin-top: -15%;
+}
+
+.grex3 {
+  height: 500px;
+  width: 40%;
+  padding-left: 57%;
+  margin-top: -24%;
+}
+
+.amg {
+  color: black;
+  width: 70%;
+  margin-left: 3%;
+  font-family: 'Playfair Display', serif;
+  margin-top: 5%;
+}
+
+.amg p {
+  font-size: 18px;
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+  color: rgb(231, 225, 225);
+  padding-left: 23%;
+}
+.space {
+  margin-top: -1.9%;
+  text-align: left;
+}
+.gClass {
+  margin-top: 5%;
+  width: 100%;
+}
