@@ -24,7 +24,7 @@ class Home extends React.Component {
           <img src={car1} alt="main" />
         </div>
         <div className="home_name1" data-aos="slide-right">
-          <span>MUSTANG</span>
+          <span>TRENDING</span>
         </div>
 
         <div>
